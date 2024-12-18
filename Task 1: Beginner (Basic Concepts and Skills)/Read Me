@@ -1,0 +1,63 @@
+Simple Calculator and To-Do List Application
+
+Table of Contents
+
+Project Overview
+Project 1: Simple Calculator
+Project 2: To-Do List Application
+Technologies Used
+Getting Started
+
+Project Overview
+
+This repository contains two beginner-friendly Python projects: a Simple Calculator and a To-Do List Application. These projects are designed to help new Python developers learn the fundamentals of the language.
+
+Project 1: Simple Calculator
+
+Description
+Build a basic calculator that performs arithmetic operations with ease! This project covers the basics of Python syntax, user input, and conditionals.
+Features
+Performs basic arithmetic operations (addition, subtraction, multiplication, division)
+Handles user input and validates operations
+Uses conditionals to manage different operations
+
+Code Structure
+The calculator code is structured into the following sections:
+calculator.py: Contains the main calculator logic
+operations.py: Defines the arithmetic operations
+
+Example Usage
+$ python calculator.py
+Enter the first number: 10
+Enter the operator (+, -, \*, /): +
+Enter the second number: 5
+Result: 15
+
+
+Project 2: To-Do List Application
+
+Description
+Stay organized with a command-line to-do list app! This project helps you master lists, loops, user input, and file handling in Python.
+Features
+Allows users to add, delete, and view tasks
+Saves tasks to a file for persistence
+Uses lists and loops to manage tasks
+
+Code Structure
+
+The to-do list code is structured into the following sections:
+todo_list.py: Contains the main to-do list logic
+tasks.py: Defines the task management functions
+
+Example Usage
+$ python todo_list.py
+1. Add task
+2. Delete task
+3. View tasks
+Choose an option: 1
+Enter task name: Buy milk
+Task added successfully!
+
+Technologies Used
+Python 3.x
+Basic Python syntax and data structures
