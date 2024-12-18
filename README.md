@@ -4,12 +4,17 @@ This repository contains a collection of Python projects completed as part of th
 
 **Projects**
 
-Simple Calculator
-To-Do List Application
-Weather App Using API
-Number Guessing Game with GUI
-Web Scraping with BeautifulSoup
-Flask Web Application - Personal Blog
+1. Simple Calculator
+
+2. To-Do List Application
+
+3. Weather App Using API
+
+4. Number Guessing Game with GUI
+
+5. Web Scraping with BeautifulSoup
+
+6. Flask Web Application - Personal Blog
 
 **Technologies Used**
 
