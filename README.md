@@ -19,7 +19,11 @@ This repository contains a collection of Python projects completed as part of th
 **Technologies Used**
 
 Python
+
 Tkinter
+
 Flask
+
 BeautifulSoup
+
 APIs
