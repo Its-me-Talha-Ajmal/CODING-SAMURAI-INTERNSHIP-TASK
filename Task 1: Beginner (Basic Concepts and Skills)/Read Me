@@ -6,16 +6,18 @@ Project Overview
 Project 1: Simple Calculator
 Project 2: To-Do List Application
 Technologies Used
-Getting Started
 
 Project Overview
+This repository contains two beginner-friendly Python projects: a Simple Calculator and a To-Do List Application.
+These projects are designed to help new Python developers learn the fundamentals of the language.
 
-This repository contains two beginner-friendly Python projects: a Simple Calculator and a To-Do List Application. These projects are designed to help new Python developers learn the fundamentals of the language.
 
 Project 1: Simple Calculator
 
 Description
-Build a basic calculator that performs arithmetic operations with ease! This project covers the basics of Python syntax, user input, and conditionals.
+Build a basic calculator that performs arithmetic operations with ease! This project covers the basics of Python syntax,
+user input, and conditionals.
+
 Features
 Performs basic arithmetic operations (addition, subtraction, multiplication, division)
 Handles user input and validates operations
@@ -37,14 +39,15 @@ Result: 15
 Project 2: To-Do List Application
 
 Description
-Stay organized with a command-line to-do list app! This project helps you master lists, loops, user input, and file handling in Python.
+Stay organized with a command-line to-do list app! This project helps you master lists, loops, user input, and
+file handling in Python.
+
 Features
 Allows users to add, delete, and view tasks
 Saves tasks to a file for persistence
 Uses lists and loops to manage tasks
 
 Code Structure
-
 The to-do list code is structured into the following sections:
 todo_list.py: Contains the main to-do list logic
 tasks.py: Defines the task management functions
