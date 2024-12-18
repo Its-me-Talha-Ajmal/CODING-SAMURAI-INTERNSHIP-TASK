@@ -1,0 +1,59 @@
+Intermediate Python Projects
+
+Table of Contents
+Project Overview
+Project 3: Weather App Using API
+Project 4: Number Guessing Game with GUI
+Technologies Used
+
+Project Overview
+This repository contains two intermediate-level Python projects: a Weather App Using API and a Number Guessing Game with GUI. These projects are designed to help developers improve their skills in handling APIs, GUI development, and error management.
+
+
+Project 3: Weather App Using API
+
+Description
+Build a weather app that fetches real-time data using APIs! This project teaches you how to handle APIs, parse JSON data, and manage errors.
+
+Features
+Fetches real-time weather data from OpenWeatherMap API
+Parses JSON data and extracts relevant information
+Handles errors and exceptions for robustness
+
+Code Structure
+The weather app code is structured into the following sections:
+weather_app.py: Contains the main weather app logic
+api_handler.py: Defines the API handling functions
+weather_data.py: Parses and extracts weather data
+
+Example Usage
+$ python weather_app.py
+Enter city name: London
+Current weather: Sunny, 22°C
+
+
+Project 4: Number Guessing Game with GUI
+
+Description
+Create a fun and interactive number guessing game using Tkinter! This project helps you develop essential skills in GUI development, random number generation, conditionals, and user interaction.
+
+Features
+Generates a random number for the user to guess
+Creates a GUI with input field, buttons, and labels
+Handles user input and provides feedback
+
+Code Structure
+The number guessing game code is structured into the following sections:
+number_guessing_game.py: Contains the main game logic
+gui.py: Defines the GUI components and layout
+game_logic.py: Handles user input and provides feedback
+
+Example Usage
+$ python number_guessing_game.py
+Guess a number between 1 and 10:
+
+Technologies Used
+Python 3.x
+Tkinter for GUI development
+OpenWeatherMap API for weather data
+JSON for data parsing
